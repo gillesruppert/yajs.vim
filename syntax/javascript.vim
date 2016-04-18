@@ -195,7 +195,7 @@ syntax keyword javascriptReserved              containedin=ALLBUT,@javascriptNoR
 syntax keyword javascriptReserved              containedin=ALLBUT,@javascriptNoReserved extends finally for function if 
 "import,javascriptRegexpString,javascriptPropertyName
 syntax keyword javascriptReserved              containedin=ALLBUT,@javascriptNoReserved in instanceof let new return super
-syntax keyword javascriptReserved              containedin=ALLBUT,@javascriptNoReserved switch throw try typeof var
+syntax keyword javascriptReserved              containedin=ALLBUT,@javascriptNoReserved switch throw try var
 syntax keyword javascriptReserved              containedin=ALLBUT,@javascriptNoReserved while with yield
 
 syntax keyword javascriptReserved              containedin=ALLBUT,@javascriptNoReserved enum implements package protected static
